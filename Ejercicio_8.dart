@@ -1,6 +1,6 @@
 void main()
 {
-  int numero = ;
+  int numero = 32;
   int factorial = calcularFactorial(numero);
   print('El factorial de $numero es $factorial');
 }
